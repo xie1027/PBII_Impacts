@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4da7fd52f0192bf1f77720233fdd041c",
+    "revision": "5238882dd9f6109e3f7efee5117f5e59",
     "url": "/PBII_Impacts/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PBII_Impacts/static/css/2.0b5659ac.chunk.css"
   },
   {
-    "revision": "6021b1fa0101ca4b3e50",
+    "revision": "d752c6708c6c23476071",
     "url": "/PBII_Impacts/static/css/main.d75b6272.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PBII_Impacts/static/js/2.d18fdc5b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6021b1fa0101ca4b3e50",
-    "url": "/PBII_Impacts/static/js/main.2d1779b6.chunk.js"
+    "revision": "d752c6708c6c23476071",
+    "url": "/PBII_Impacts/static/js/main.0737395c.chunk.js"
   },
   {
     "revision": "12c6850daf25bea190f1",
